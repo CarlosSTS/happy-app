@@ -6,7 +6,7 @@
 
 O app contém os seguintes módulos
 
-* uma tela de dashboard qe mostra os orfanatos próximos que que ao clicar no mome leva o usuário para a tela de detalhes.
+* uma tela de dashboard que mostra os orfanatos próximos que ao clicar no mome leva o usuário para a tela de detalhes.
 * uma tela de detalhe que mostra as informações dos orfanatos tais como: horário de visita, rota no goole maps e whatsapp além de algumas imagens cadastradas na versão web.
 
 ## Páginas do app
