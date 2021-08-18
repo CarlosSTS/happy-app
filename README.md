@@ -26,12 +26,12 @@ RODANDO O PROJETO MOBILE
 ## FRONTEND
 RODANDO O PROJETO NO FRONTEND
 * yarn install => para instalar Dependências do projeto
-* yarn start =>  para inicializar o projeto
+* yarn start => para inicializar o projeto
 
 ## BACKEND
 RODANDO O PROJETO NO BACKEND
 * yarn install => para instalar Dependências do projeto
-* yarn start =>  para inicializar o projeto
+* yarn start => para inicializar o projeto
 
 ## Feito por Carlos Ferreira
 * [Github](https://www.github.com/CarlosSTS)
