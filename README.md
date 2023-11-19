@@ -22,7 +22,7 @@ O app contém os seguintes módulos
 
 <table>
   <tr>
-<td><img src="https://github.com/CarlosSTS/nlw3/blob/master/assets/detail.png" alt="Foto do App detalhe" width="360" /></td>
+<td><img src="https://github.com/CarlosSTS/nlw3/blob/master/assets/detail.png" alt="Foto do App detalhe" width="388" /></td>
 <td><img src="https://github.com/CarlosSTS/nlw3/blob/master/assets/maps.jpg" alt="Foto do App mapa" width="360" /></td>
 </tr>
 </table>
