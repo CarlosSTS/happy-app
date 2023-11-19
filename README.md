@@ -15,7 +15,7 @@ O app contém os seguintes módulos
 <table>
   <tr>
 <td><img src="https://github.com/CarlosSTS/nlw3/blob/master/assets/dashboard.png" alt="Foto do App dashboard" width="360" /></td>
-<td><img src="https://github.com/CarlosSTS/nlw3/blob/master/assets/select.png" alt="Foto do App seleçãoDoOrfanato" width="360" /></td>
+<td><img src="https://github.com/CarlosSTS/nlw3/blob/master/assets/selected.png" alt="Foto do App seleçãoDoOrfanato" width="360" /></td>
 <td><img src="https://github.com/CarlosSTS/nlw3/blob/master/assets/photoDetail.png" alt="Foto do App detalhe da foto" width="360" /></td>
 </tr>
 </table>
