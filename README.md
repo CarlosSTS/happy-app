@@ -15,13 +15,22 @@ O app contém os seguintes módulos
 <table>
   <tr>
 <td><img src="https://github.com/CarlosSTS/nlw3/blob/master/assets/dashboard.png" alt="Foto do App dashboard" width="360" /></td>
+<td><img src="https://github.com/CarlosSTS/nlw3/blob/master/assets/selectPoint.png" alt="Foto do App seleção do mapa" width="360" /></td>
+<td><img src="https://github.com/CarlosSTS/nlw3/blob/master/assets/selectedPoint.png" alt="Foto do App local selecionado" width="360" /></td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td><img src="https://github.com/CarlosSTS/nlw3/blob/master/assets/form1.png" alt="Foto do App Formulário" width="360" /></td>
+<td><img src="https://github.com/CarlosSTS/nlw3/blob/master/assets/form2.png" alt="Foto do App Formulário" width="360" /></td>
 <td><img src="https://github.com/CarlosSTS/nlw3/blob/master/assets/selected.png" alt="Foto do App seleçãoDoOrfanato" width="360" /></td>
-<td><img src="https://github.com/CarlosSTS/nlw3/blob/master/assets/photoDetail.png" alt="Foto do App detalhe da foto" width="360" /></td>
 </tr>
 </table>
 
 <table>
   <tr>
+<td><img src="https://github.com/CarlosSTS/nlw3/blob/master/assets/photoDetail.png" alt="Foto do App detalhe da foto" width="360" /></td>
 <td><img src="https://github.com/CarlosSTS/nlw3/blob/master/assets/detail.png" alt="Foto do App detalhe" width="388" /></td>
 <td><img src="https://github.com/CarlosSTS/nlw3/blob/master/assets/maps.jpg" alt="Foto do App mapa" width="360" /></td>
 </tr>
